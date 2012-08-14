@@ -1,0 +1,6 @@
+
+
+
+sm deploy --delete . ./build
+
+
