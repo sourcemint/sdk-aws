@@ -11,8 +11,5 @@
         "sourcemint-pm-sm": "0.1.x",
         "aws-lib": "0.0.6",
         "mappings": "0.1.x"
-    },
-    "devDependencies": {
-        "sourcemint-examples-static": "0.1.x"
     }
 }
