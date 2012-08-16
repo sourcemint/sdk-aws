@@ -1,2 +1,4 @@
-/node_modules/
+node_modules/
 /examples/01-Deploy-Static-HelloWorld/build/
+!/examples/01-Deploy-Static-HelloWorld/node_modules/postprovision/
+program.rt.json
