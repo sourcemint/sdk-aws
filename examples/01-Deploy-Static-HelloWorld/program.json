@@ -5,7 +5,10 @@
     "config": {
         "github.com/sourcemint/deployer/0": {
             "adapter": "github.com/sourcemint/sdk-aws/0",
-            "platform": "github.com/freedom-platform/server-aws-ubuntu-11/0"
+            "platform": "github.com/freedom-platform/server-aws-ubuntu-11/0",
+            "on": {
+                "postprovision": "postprovision"
+            }
         },
         "github.com/sourcemint/sdk-aws/0": {
             "ImageId": "ami-4dad7424",

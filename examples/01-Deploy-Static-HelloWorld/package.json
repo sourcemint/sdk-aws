@@ -1,4 +1,5 @@
 {
+	"private": true,
     "name": "sourcemint-sdk-aws-examples-01-Deploy-Static-HelloWorld",
     "version": "0.1.0",
     "dependencies": {
