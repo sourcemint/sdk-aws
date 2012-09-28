@@ -9,6 +9,7 @@
         "sourcemint-util-js": "0.1.x",
         "sourcemint-pm-ssh": "0.1.x",
         "sourcemint-pm-sm": "0.1.x",
+        "sourcemint-credentials-js": "0.1.x",
         "aws-lib": "0.0.6",
         "mappings": "0.1.x",
         "request": "2.11.0"
